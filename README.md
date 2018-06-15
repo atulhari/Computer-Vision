@@ -11,3 +11,13 @@ test buoy to the camera, which would be useful information of a rescue operation
 
 
 Assignment: This project focuses on the second and the third task. Given the position of the test buoy in the first frame (by manual pinpointing), track the buoy in consecutive frames, and estimate its distance in meters.
+
+
+The project involve discussion on,
+ camera calibration
+ image stabilization
+ 3D vision
+ tracking and prediction
+ point detection/localization
+
+The _3D_vision_manOverBoard.m file is the main project file and also find the attached video file. 
