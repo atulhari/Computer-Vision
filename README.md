@@ -20,4 +20,4 @@ The project involve discussion on,
  tracking and prediction
  point detection/localization
 
-The _3D_vision_manOverBoard.m file is the main project file and also find the attached video file. 
+The _3D_vision_manOverBoard.m file is the main project file. 
